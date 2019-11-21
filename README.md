@@ -1,8 +1,9 @@
+# Welcome My Resume Website
 
-# Welcome My Resume
+Hello, welcome to my resume page. 
 
-Hello, welcome to my resume. 
+Over here, you can learn a little bit about my experiences!
 
-Over here, you can learn a little bit about my experience
+This is a simple overview of my webpage!🌟🌟🌟
 
-![Please check out my website here](images/photo.png)
+![This is a simple overview of my webpage](https://lh3.googleusercontent.com/47uLHArBTwn0dAhU6cjtKYtRnU2MIl1zY8jnahxqCtzuhyJdOEXe6fJhn-GSWPZHtMCx0MAJ0PFCOBi1GGSzbn_qFZ6DfymixaHNYFHXOdL-nfGhohDFh3S0mck5PTm3z-2TfGqYpiWsMFfO1JbVQ0ETYlLlpJ_mDuA2VBimDSDZ4BNWOPc5Ak0TCsJLGMZDYToeTNaTeBlzEiYmWso01Hq38USE7pFhy3fuMAIotvFGb7izzqTJrkAzNG-cxod2mTnVzhEusAKzz98i-V5xXvqTEGuREGrrHokCWTJurRr5ZY39RBAHibkpopILH-TcCm68IoVE0eVgJFb54DKlKauCprpv8t1dDdDCZmDiecv3rmLNqQrUNws5u2T4KxCBq_0k0wS0ydCa67IknEprcLUmegXHH1WdE6yXfGxv0jrVKAXOZBLmoBR9BEymPHmDw5oFzBO-v8eHih6Viz0NmgzWn_aAuWAm4ttqDEHcxM4zFArDbzLMj26cqWSFEf41LQPg0998jppzFdT4k6RxyMQn3pFcFnREfWbtuHoERzdyFMbAzs5qjmHNWUBQmmpaImo4gth4-OuKo5LaCuLPXnSK6W1gYffgpjNRTfBdgKaxwaKHb3dJm5apdzCwc31-d38I6DJhc5Vmxxz65t1uYhjXJIATxs8tRz6xgVJw4m3kyP946UVl-5ChNfWn7w=s512)
